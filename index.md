@@ -1,4 +1,4 @@
 ---
-title: Learning and Memory Blog
+title: Welcome to my blog
 ---
 
