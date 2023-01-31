@@ -1,5 +1,5 @@
 ---
-title: "Habituation Sensitisation and Perceptual Learning"
+title: "Habituation and Dishabituation"
 date: 2023-01-24
 ---
 
