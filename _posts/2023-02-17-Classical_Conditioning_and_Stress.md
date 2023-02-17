@@ -1,3 +1,8 @@
+---
+title: "Classical Conditioning and Stress"
+date: 2023-02-17
+---
+
 Classical conditioning involves learning a new behavior by associating a cue to otherwise a naturally evoked response. 
 The learning occurs by pairing a cue (Conditional Stimuli-CS) with a biologically significant cue (Unconditioned Stimuli-US) that would evoke a response (Unconditioned Response-UR) naturally without training. After training with paired cues, even in the absence of US, CS evokes the same response, called Conditioned Response(CR).
 
